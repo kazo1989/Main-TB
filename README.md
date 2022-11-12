@@ -1,1 +1,3 @@
-# Photoshop2
+# Photoshop file napravljen zbog razmjene fajlova...
+
+## By Petar
