@@ -1,7 +1,7 @@
-# Repository napravljen za discord primjer/lični throwback...
+# Repository made for discord ~ example/personal throwback...
 
-Ovdje se nalaze neki od mojih početnih projekata. Dakle bukvalno projekti na kojima sam radio dok sam učio o design-u i code-u. Nije bilo baš skoro, ali svakako može poslužiti kao neki primjer, odnosno neki moj lični throwback.
+Here are some of my initial projects. So literally the projects I worked on while I was learning about design and code. It wasn't very recent, but it can certainly serve as an example, that is, some of my personal throwback.
 
-P.S. ~ jelen.png je bio prevelik .psd file pa sam ga konvertovao u sliku (.png), ali koga zanima, svakako mogu poslati i taj .psd file
+P.S. ~ jelen.png was too big .psd file so I converted it to a picture (.png), but if anyone is interested, I can definitely send that .psd file too to you.
 
 ## By Petar
